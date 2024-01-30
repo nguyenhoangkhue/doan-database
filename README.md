@@ -16,5 +16,7 @@ Hướng dẫn cài đặt MySQL Workbench
 Chạy SQL script để tạo database, bảng và nhập dữ liệu vào các bảng
 
 Chạy tuần tự các scrip sau: https://github.com/nguyenhoangkhue/doan-database/blob/main/doan-mysql.sql
+
 Sơ đồ cơ sở dữ liệu: https://github.com/nguyenhoangkhue/doan-database/blob/main/Library_diagram.png
+
 Chi tiết database design
