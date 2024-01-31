@@ -19,4 +19,4 @@ Chạy tuần tự các scrip sau: https://github.com/nguyenhoangkhue/doan-datab
 
 Sơ đồ cơ sở dữ liệu: https://github.com/nguyenhoangkhue/doan-database/blob/main/Library_diagram.png
 
-Chi tiết database design
+Chi tiết database design: https://husteduvn-my.sharepoint.com/:x:/r/personal/khue_nh232412_sis_hust_edu_vn/_layouts/15/Doc.aspx?sourcedoc=%7B9515cbc7-de8a-449c-bc5e-5bfb3dd843c0%7D&action=edit&wdnewandopenct=1706620168774&wdorigin=OFFICECOM-HWA.START.NEW&wdprevioussessionsrc=HarmonyDesktop&wdprevioussession=b945d697-9f2d-404f-a8bf-2b68b2e093fe&wdenableroaming=1&wdodb=1&wdredirectionreason=Force_SingleStepBoot&wdinitialsession=5ecd4c15-f8f9-4863-b060-db1aba90ab91&wdrldsc=2&wdrldc=1&wdrldr=ContinueInExcel
